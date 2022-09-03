@@ -20,7 +20,7 @@ public class Main {
         System.out.println(array);
         System.out.println("---------------------------------------------------------------------------ONLY EVEN NUMBERS----------------------------------------------------------\n");
         System.out.println(arrayEvenNumbers);
-        System.out.println("---------------------------------------------------------------------------ONLY ODD NUMBERS NUMBERS---------------------------------------------------\n");
+        System.out.println("---------------------------------------------------------------------------ONLY ODD  NUMBERS---------------------------------------------------\n");
         System.out.println(arrayOddNumbers);
     }
 
